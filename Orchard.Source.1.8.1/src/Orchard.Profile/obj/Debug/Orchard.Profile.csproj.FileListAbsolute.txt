@@ -1,0 +1,7 @@
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.Profile\bin\Debug\Orchard.Profile.dll
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.Profile\bin\Debug\Orchard.Profile.pdb
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.Profile\bin\Debug\nunit.framework.dll
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.Profile\bin\Debug\TechTalk.SpecFlow.dll
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.Profile\obj\Debug\Orchard.Profile.csprojResolveAssemblyReference.cache
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.Profile\obj\Debug\Orchard.Profile.dll
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.Profile\obj\Debug\Orchard.Profile.pdb

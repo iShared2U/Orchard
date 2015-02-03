@@ -1,0 +1,6 @@
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Tools\Orchard\bin\Debug\Orchard.exe.config
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Tools\Orchard\bin\Debug\Orchard.exe
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Tools\Orchard\bin\Debug\Orchard.pdb
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Tools\Orchard\obj\Debug\Orchard.csprojResolveAssemblyReference.cache
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Tools\Orchard\obj\Debug\Orchard.exe
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Tools\Orchard\obj\Debug\Orchard.pdb

@@ -1,0 +1,5 @@
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.WarmupStarter\bin\Debug\Orchard.WarmupStarter.dll
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.WarmupStarter\bin\Debug\Orchard.WarmupStarter.pdb
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.csprojResolveAssemblyReference.cache
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.dll
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.pdb

@@ -1,0 +1,7 @@
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.Web\Modules\Orchard.MultiTenancy\bin\Orchard.MultiTenancy.dll.config
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.Web\Modules\Orchard.MultiTenancy\bin\Orchard.MultiTenancy.dll
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.Web\Modules\Orchard.MultiTenancy\bin\Orchard.MultiTenancy.pdb
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.Web\Modules\Orchard.MultiTenancy\bin\System.Web.Mvc.dll
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.Web\Modules\Orchard.MultiTenancy\bin\System.Web.Mvc.xml
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.Web\Modules\Orchard.MultiTenancy\obj\Debug\Orchard.MultiTenancy.dll
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Orchard.Web\Modules\Orchard.MultiTenancy\obj\Debug\Orchard.MultiTenancy.pdb

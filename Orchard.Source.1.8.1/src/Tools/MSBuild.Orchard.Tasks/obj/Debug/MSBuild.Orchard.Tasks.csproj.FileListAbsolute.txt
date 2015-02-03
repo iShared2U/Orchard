@@ -1,0 +1,5 @@
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Tools\MSBuild.Orchard.Tasks\bin\Debug\MSBuild.Orchard.Tasks.dll
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Tools\MSBuild.Orchard.Tasks\bin\Debug\MSBuild.Orchard.Tasks.pdb
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Tools\MSBuild.Orchard.Tasks\obj\Debug\MSBuild.Orchard.Tasks.csprojResolveAssemblyReference.cache
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Tools\MSBuild.Orchard.Tasks\obj\Debug\MSBuild.Orchard.Tasks.dll
+D:\iPhoenix Local Development\Orchard.Source.1.8.1\src\Tools\MSBuild.Orchard.Tasks\obj\Debug\MSBuild.Orchard.Tasks.pdb
